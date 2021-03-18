@@ -5,9 +5,10 @@ body{
 
 h1{
 	margin: auto;
-	width: 600px;
-	height:250px;
+	width: 350px;
+	height:70px;
 	padding: 5px;
+	text-align: center;
 	background-color: #5dade2;
 	color:  #eaeded ;
 	border-radius: 7px;
