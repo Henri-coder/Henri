@@ -5,6 +5,8 @@ body{
 
 h1{
 	margin: auto;
+	width: 600px;
+	height:250px;
 	padding: 5px;
 	background-color: #5dade2;
 	color:  #eaeded ;
